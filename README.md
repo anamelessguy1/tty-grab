@@ -6,7 +6,7 @@ ffmpeg
 
 python
 
-numpy from python's package manager called pip
+numpy from python's package manager called pip (in some distros, you install it using your native pkg manager, it's most likely called python-numpy)
 
 and then just run it with python
 
